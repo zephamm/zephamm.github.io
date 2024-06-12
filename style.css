@@ -1,0 +1,43 @@
+.nama-fans {
+    color: rgb(121, 3, 3);
+    background-color: rgb(233, 200, 206);
+    }
+ 
+a:hover {
+    color: blueviolet;
+}
+    
+a {
+    color: rgb(190, 37, 126);
+}
+
+.awal {
+    color: brown;
+}
+
+h2 {
+    color: brown;
+    font-family: monospace;
+    background-color: rgb(233, 200, 206);
+}
+
+h1 {
+    font-size: 45px;
+    font-family: Arial;
+}
+
+.sebagai{
+    font-family: Arial;
+}
+
+table{
+    border: 2px solid rgb(146, 141, 145);
+}
+
+table thead{
+    background-color: aquamarine;
+}
+
+table tbody{
+    background-color: rgb(120, 197, 171);
+}
